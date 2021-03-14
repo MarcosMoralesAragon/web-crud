@@ -1,0 +1,66 @@
+/*  
+BARRA DE NAVEGACIÓN SUPERIOR
+*/
+
+.logo-brand {
+    width: 9%;
+}
+
+.navbar {
+    background-color: rgba(214, 169, 177, 0.288);
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.05);
+    min-height: 100px;
+}
+
+.navbar:hover{
+    background-color: rgba(214, 169, 177, 0.884);
+}
+
+.nav-link { color: #1a1a1a; }
+.nav-link:hover { color: rgba(255, 255, 255, 0.877); }
+
+.navbar-toggler { font-size: 40px; }
+.navbar-toggler:focus { outline: none; }
+
+
+.portfolio-container {
+    position: relative;
+    overflow: hidden;
+    margin: 10px 0;
+    border-radius: 2px;
+}
+
+.portfolio-container img {
+    -moz-transition: all 0.8s;
+    -webkit-transition: all 0.8s;
+    transition: all 0.8s;
+}
+
+.portfolio-container:hover img {
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.portfolio-details {
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+    z-index: 9000;
+}
+
+.portfolio-details h2 {
+    margin-bottom: 0px;
+}
+
+@media(max-width:991px){
+    .logo-brand {
+        width: 15%;
+    }
+}
+
+@media(max-width:375px){
+    .logo-brand {
+        width: 30%;
+    }
+}
