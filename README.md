@@ -12,7 +12,7 @@ Referencias realizadas:
 [Imagenes lorem ipsum](https://picsum.photos/)
 
 Páguinas web:
-[Principal (desde esta puede viajar a las otras con los botones de cerrar sesion y editar)](https://marcosmoralesaragon.github.io/WebConBoostrap/) / 
-[Registro](https://marcosmoralesaragon.github.io/WebConBoostrap/) / 
-[Inicio de sesión](https://marcosmoralesaragon.github.io/WebConBoostrap/) / 
-[Tabla](https://marcosmoralesaragon.github.io/WebConBoostrap/) 
+[Principal (desde esta puede viajar a las otras con los botones de cerrar sesion y editar)](https://marcosmoralesaragon.github.io/web-crud/CRUD/index.html) / 
+[Registro](https://marcosmoralesaragon.github.io/web-crud/CRUD/registro.html) / 
+[Inicio de sesión](https://marcosmoralesaragon.github.io/web-crud/CRUD/login.html) / 
+[Tabla](https://marcosmoralesaragon.github.io/web-crud/CRUD/tablas.html) 
